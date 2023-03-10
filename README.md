@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://img.shields.io/badge/42-000000?style=flat-square&logo=42&logoColor=black"/></a>
+<img src="https://img.shields.io/badge/42-000000?style=flat-square&logo=42&logoColor=white"/></a>
 
 <!--
 **changhee16/changhee16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
