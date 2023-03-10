@@ -3,9 +3,9 @@
 ## 👋 Hi there 👋
 
 🔭 I'm studying in Sogang University and 42Seoul.<br>
-🌱 Now I'm interested in Deep learning, Computer Graphics.
-😄 I enjoy traveling, watching musicals, and playing the drum.
-🤔 Also, I enjoy learning new things.
+🌱 Now I'm interested in Deep learning, Computer Graphics.<br>
+😄 I enjoy traveling, watching musicals, and playing the drum.<br>
+🤔 Also, I enjoy learning new things.<br>
 
 ## Skills
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
