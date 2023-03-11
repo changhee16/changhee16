@@ -4,7 +4,7 @@
 
 🔭 I'm studying in Sogang University and 42Seoul.<br>
 🌱 Now I'm interested in Deep learning, Computer Graphics.<br>
-😄 I enjoy traveling, watching musicals, and playing the drum.<br>
+😄 I enjoy traveling, watching musicals, and taking pictures.<br>
 🤔 Also, I enjoy learning new things.<br>
 
 ## Skills
