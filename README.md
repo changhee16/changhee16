@@ -15,7 +15,7 @@
 ## 👋 Hi there 👋
 
 🎓 B.S. in Philosophy & Computer Science, Sogang University (20.3 ~ 25.2)  
-🔬 Integrated M.S./Ph.D. student in Data Science, Seoul National University (SKI-ML Lab, 25.3 ~)
+🔬 Integrated M.S. student in Data Science, Seoul National University (SKI-ML Lab, 25.3 ~)
 
 ## Research Interests
 
